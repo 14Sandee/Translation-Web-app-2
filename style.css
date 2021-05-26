@@ -1,0 +1,23 @@
+#input{
+    width: 80%;
+    height: 20vh;
+    display: block;
+    padding: 20px;
+    font-size: 20px;
+    margin: 1rem;
+}
+#btn{
+    padding: 12px 25px;
+    font-size: 13px;
+    cursor: pointer;
+    border: none;
+}
+#output{
+    width: 80%;
+    height: 20vh;
+    display: block;
+    padding: 20px;
+    font-size: 20px;
+    margin: 1rem;
+    border: 1px solid #333;
+}
